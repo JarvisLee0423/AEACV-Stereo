@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from opt_einsum import contract
 
 
 def pool2x(x):
