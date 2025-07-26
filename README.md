@@ -76,7 +76,7 @@ Qualitative results of AEACV-Stereo on the Middlebury test set.
 </div>
 <p></p>
 
-Comparisons with state-of-the-art stereo methods on different public benchmarks of the proposed AEACV-Stereo.
+Qualitative results of the proposed AEACV-Stereo compared with state-of-the-art stereo methods on different public benchmarks and KITTI 2015 leaderboards.
 
 ## :gear: Environment Settings
 
