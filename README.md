@@ -1,6 +1,6 @@
 # :star: AEACV-Stereo (ECCV 2024 Submission ID 4123) :star:
 
-:warning: **Warning: This paper has not been accepted by the main conference of ECCV 2024. Due to company policy, it has not been republished in any other conferences or workshops, nor has it been published on arXiv. If you have any problems, feel free to contact us by email [:email:](mailto:jiahali2-c@my.cityu.edu.hk).**
+:warning::warning::warning: **Warning: This paper has not been accepted by the main conference of ECCV 2024. Due to company policy, it has not been republished in any other conferences or workshops, nor has it been published on arXiv. If you have any problems, feel free to contact us by email [:email:](mailto:jiahali2-c@my.cityu.edu.hk).**
 
 This repository contains the source code for our paper.
 
